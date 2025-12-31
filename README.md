@@ -94,6 +94,8 @@ Used to:
 - JavaScript (ES6)
 
 ---
+## Screenshot<img width="593" height="374" alt="image" src="https://github.com/user-attachments/assets/b6299b3f-9231-405a-b6d6-653aa7adea07" />
+
 
 ##  Future Improvements
 - Password strength progress bar
